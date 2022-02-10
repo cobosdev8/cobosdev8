@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cobosdev8
-- 👀 I’m interested in chinese, mathematics, history and programming.
+- 👀 I’m interested in cycling, mathematics, philosophy and programming.
 - 🌱 I’m currently learning mathematics.
 - 📫 You can contact me on cobosdev@protonmail.com .
 
